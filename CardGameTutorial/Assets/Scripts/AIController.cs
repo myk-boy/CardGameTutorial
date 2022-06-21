@@ -19,6 +19,7 @@ public class AIController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // 注释
         actionTime = actionTimeStart;
     }
 
